@@ -69,7 +69,7 @@ Ce repository présente mes compétences en **SQL** et **analyse de données** �
 
 ## 🎖️ Statistiques LeetCode
 
-- **Problèmes résolus** : +70 SQL
+- **Problèmes résolus** : +70 SQL (voir profil)
 - **Niveau** : Easy à Hard
 - **Spécialités** : Analyse de données, Business Intelligence
 - **Langages** : SQL (PostgreSQL et un peu MySQL)
