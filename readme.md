@@ -6,7 +6,7 @@
 
 ## 📊 À propos
 
-Ce repository présente mes compétences en **SQL** et **analyse de données** à travers une sélection de problèmes LeetCode résolus. En tant que candidat pour un poste d'alternant **Data Analyst**, ces solutions démontrent ma capacité à :
+Ce repository présente mes compétences en **SQL** et **analyse de données** à travers une sélection (non exhaustive) de problèmes LeetCode résolus. En tant que candidat pour un poste d'alternant **Data Analyst**, ces solutions démontrent ma capacité à :
 
 - 🔍 Analyser des données complexes
 - 📈 Résoudre des problèmes business avec SQL
